@@ -133,10 +133,9 @@ function (
                 }
             })
         });
-        	var s = new Search({
-			                     map: _map
-	      	                  }, 'search');
-		   s.startup();
+        
+        var s = new Search({map: _map}, 'search');
+	s.startup();
 
         // Inidicate usage of proxy for the following hosted map services
         $.each([PREVIEW, IMAGES[5].url], function () {
