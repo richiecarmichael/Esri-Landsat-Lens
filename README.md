@@ -26,4 +26,4 @@ Click [here](http://maps.esri.com/rc/landsat/index.html) or [here](http://richie
   - User interface extension to jQuery.
   
 #### A view of the [Palm Jebel Ali](https://en.wikipedia.org/wiki/Palm_Jebel_Ali) in 1975, 1990, 2000, 2005, 2010 and today.
-![](./img/landsat.jpg)
+![](./img/landsat.gif)
