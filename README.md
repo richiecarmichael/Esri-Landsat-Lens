@@ -4,7 +4,7 @@ This mapping application allows users to look back in time with Landsat time win
 
 Click [here](http://maps.esri.com/rc/landsat/index.html) or [here](http://richiecarmichael.github.io/landsat/index.html) to view the live application.
 
-#### This application makes use of the following map services
+#### This application makes use of the following image services
 
 * [GLS1975 Enhanced](http://www.arcgis.com/home/item.html?id=a861f5eb5b1e44e1986d8cffb60c3a3e)
 * [GLS1990 Enhanced](http://www.arcgis.com/home/item.html?id=940a839032da467fb4424b4404480029)
