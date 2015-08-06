@@ -18,6 +18,8 @@ Click [here](http://maps.esri.com/rc/landsat/index.html) or [here](http://richie
 
 * [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) by [Esri](http://www.esri.com/)
   - Esri’s JavaScript library for mapping and analysis.
+* [Esri Map Lens](https://github.com/richiecarmichael/Esri-Map-Lens)
+  - A movable map window using jQuery
 * [Esri Proxy](https://github.com/Esri/resource-proxy) by [Esri](http://www.esri.com/)
   - Proxy files for DotNet, Java and PHP.
 * [jQuery](http://jquery.com/) by jQuery Foundataion Inc
