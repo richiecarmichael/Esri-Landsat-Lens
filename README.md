@@ -2,7 +2,7 @@
 
 This mapping application allows users to look back in time with Landsat time windows.
 
-Click [here](http://maps.esri.com/rc/landsat/index.html) or [here](http://richiecarmichael.github.io/landsat/index.html) to view the live application. Preset bookmarks are inspired by [this](http://earthobservatory.nasa.gov/Features/WorldOfChange/) NASA article.
+Click [here](http://richiecarmichael.github.io/landsat/index.html) or [here](http://maps.esri.com/rc/landsat/index.html) to view the live application. Preset bookmarks are inspired by [this](http://earthobservatory.nasa.gov/Features/WorldOfChange/) NASA article.
 
 #### This application makes use of the following image services
 
